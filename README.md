@@ -2,6 +2,9 @@
 
 ## 📌 Overview
 The **RAG Chain Q&A App** is an advanced **Retrieval-Augmented Generation (RAG)** application that enables users to upload a PDF document and ask contextual questions based on its content. This app uses **LangChain, FAISS, and Ollama's deepseek-r1 model** to retrieve relevant document sections and generate accurate answers in real-time.
+![Sc![Screenshot 2025-03-13 033813](https://github.com/user-attachments/assets/d2115671-2f5a-40c2-b4d3-0138edc3c22f)
+reenshot 2025-03-13 033825](https://github.com/user-attachments/assets/73318761-a4f6-42f2-8441-a44f29f325bc)
+![Screenshot 2025-03-13 033745](https://github.com/user-attachments/assets/860b8b3d-838f-49d3-8dc9-cbdd45d5b3ba)
 
 ## ✨ Features
 - 📄 **Document Upload:** Upload a PDF document and extract its content into Markdown format.
