@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+docling
+langchain
+langchain-community
+langchain-ollama
+langchain-text-splitters
+faiss-cpu
+langchain-core
+ollama
